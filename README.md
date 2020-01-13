@@ -14,7 +14,7 @@ Inspect the REST API routes, endpoints, parameters and properties registered on 
 
 Adds a `Tools > REST API Inspector` menu that presents information about registered REST API routes, endpoints, etc in various list tables.
 
-### On Screen Help ###
+## On Screen Help ##
 
 There is skeletal help in the WP `Help` tabs on each screen, so I won't bother to say much here about how to get started and use this plugin: Just go to `Tools > REST API Inspector` and see the "Help" tab.
 
@@ -22,7 +22,7 @@ Note: although it may look like there is only one screen (on that Tools menu), e
 
 Some of the on screen help may be incorrect...as I've added new functionality I haven't always had time to update the help tabs (e.g., "Available Actions" tab on the Routes screen doesn't mention the `Schema` and `Handbook` row actions).  But, hey, this is only version 0.1.0 of the plugin, so you'll just have to figure some things out for yourselves :-)
 
-### Implementation ###
+## Implementation ##
 
 The implementation is *very* preliminary...but basically:
 
@@ -52,7 +52,7 @@ If you want to browse the code, most of it is fairly well documented, with ample
 
 And finally, answer the big question: Is this plugin something that is worth continuing to work on?  That is, does it provide useful information for users/developers (or could it in the future with changes)? 
 
-The best way to provide feedback is to open an [Issue](https://github.com/pbiron/rest-api-inspector).
+The best way to provide feedback is to open an [Issue](https://github.com/pbiron/wp-rest-api-inspector) on GitHub.
 
 ## Installation ##
 
