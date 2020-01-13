@@ -1,0 +1,26 @@
+{
+	"curly": true,
+	"eqeqeq": true,
+	"esversion": 6,
+	"noarg": true,
+	"nonbsp": true,
+	"undef": true,
+	"unused": true,
+	"strict": true,
+	"proto": true,
+
+	"browser": true,
+	"devel": true,
+	"jquery": true,
+
+	"globals": {
+		"_": false,
+		"Backbone": false,
+		"jQuery": false,
+		"JSON": false,
+		"wp": false,
+		"export": false,
+		"module": false,
+		"require": false
+	}
+}

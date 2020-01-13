@@ -1,0 +1,10 @@
+/* try to give routes with long regexes enough room so they don't wrap */
+table.wp-list-table.routes th#name,
+table.wp-list-table.endpoints th#name {
+	width: 45%;
+}
+
+table.wp-list-table.routes th#methods,
+table.wp-list-table.endpoints th#methods {
+	width: 7%;
+}
