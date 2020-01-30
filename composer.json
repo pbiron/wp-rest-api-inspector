@@ -1,5 +1,6 @@
 {
-	"name" : "wp-rest-api-inspector",
+	"name" : "shc/wp-rest-api-inspector",
+	"description" : "Inspect WordPress REST API routes, endpoints, parameters and properties",
 	"type" : "wordpress-plugin",
 	"license" : "GPL-2.0-or-later",
 	"minimum-stability": "dev",
